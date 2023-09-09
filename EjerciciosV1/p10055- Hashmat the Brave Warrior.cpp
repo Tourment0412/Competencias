@@ -11,7 +11,7 @@ int main(){
     while (cin >> a1 >> a2) {
 //El abs recibe long float double, long long, long double, int
         cout<<abs(a1-a2)<<endl;
-        //Recordar el endl siempre que se imprime tambien con el tamaño de lso datos
+        //Recordar el endl siempre que se imprime tambien con el tamaño de los datos
 
 
 
