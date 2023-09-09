@@ -1,7 +1,7 @@
 //
 // Created by NITRO 5 on 8/09/2023.
 
-//En hallar mayor aux, se debe poner j+1 a la hora de retornar max, para que tambien haga la del 10
+
 #include <iostream>
 
 using namespace std;
@@ -16,7 +16,7 @@ int contarCiclos(int i, int cont){
 }
 
 int hallarMayorCicloAux(int i, int j, int max) {
-
+    //En hallar mayor aux, se debe poner j+1 a la hora de retornar max, para que tambien haga la del 10
     if(i==j+1) return max;
     int aux= contarCiclos(i,0);
     if(aux>max) return hallarMayorCicloAux(i+1,j,aux);
