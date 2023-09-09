@@ -9,18 +9,18 @@ using namespace std;
 
 int contarCiclos(int i, int cont){
 
-    if(i==1) return cont+1;
-    if(i%2!=0) return contarCiclos((3*i)+1,cont+1);
-    return contarCiclos(i/2,cont+1);
+        if(i==1) return cont+1;
+        if(i%2!=0) return contarCiclos((3*i)+1,cont+1);
+        return contarCiclos(i/2,cont+1);
 
-}
+    }
 
-int hallarMayorCicloAux(int i, int j, int max) {
-    //En hallar mayor aux, se debe poner j+1 a la hora de retornar max, para que tambien haga la del 10
-    if(i==j+1) return max;
-    int aux= contarCiclos(i,0);
-    if(aux>max) return hallarMayorCicloAux(i+1,j,aux);
-    return hallarMayorCicloAux(i+1,j,max);
+    int hallarMayorCicloAux(int i, int j, int max) {
+        //En hallar mayor aux, se debe poner j+1 a la hora de retornar max, para que tambien haga la del 10
+        if(i==j+1) return max;
+        int aux= contarCiclos(i,0);
+        if(aux>max) return hallarMayorCicloAux(i+1,j,aux);
+        return hallarMayorCicloAux(i+1,j,max);
 
 }
 int hallarMayorCiclo(int i, int j){
