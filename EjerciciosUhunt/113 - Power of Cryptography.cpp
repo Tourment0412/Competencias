@@ -10,12 +10,12 @@ using namespace std;
 
 
 int main(){
-    float i,j;
+    double p,n;
 
 
-    while (cin >> i >> j) {
+    while (scanf("%lf %lf", &n, &p) != -1) {
 
-        printf("%.0f\n", pow(j,1/i));
+        printf("%.1f\n", pow(p,1/n));
     }
 
 
