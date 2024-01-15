@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="369a5260-ba47-44f7-af35-83e659220d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/11727 - Cost Cutting.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/Ejercicios/p11727-Cost Cutting.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/Vasya And String.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/LoveCalculator.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +58,7 @@
       <recent name="C:\Users\NITRO 5\Documents\GitHub\Competencias\EjerciciosV1\Ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.11727 - Cost Cutting.cpp">
-    <configuration name="11172 - Relational Operator.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="11172 - Relational Operator.cpp" CONFIG_NAME="11172 - Relational Operator.cpp">
-      <option name="sourceFile" value="11172 - Relational Operator.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.LoveCalculator.cpp">
     <configuration name="113 - Power of Cryptography.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="113 - Power of Cryptography.cpp" CONFIG_NAME="113 - Power of Cryptography.cpp">
       <option name="sourceFile" value="113 - Power of Cryptography.cpp" />
       <method v="2">
@@ -79,25 +71,31 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoveCalculator.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="LoveCalculator.cpp" CONFIG_NAME="LoveCalculator.cpp">
+      <option name="sourceFile" value="LoveCalculator.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoveCalculator.h" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="LoveCalculator.h" CONFIG_NAME="LoveCalculator.h">
+      <option name="sourceFile" value="LoveCalculator.h" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Vasya And String.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="Vasya And String.cpp" CONFIG_NAME="Vasya And String.cpp">
       <option name="sourceFile" value="Vasya And String.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p10071.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="p10071.cpp" CONFIG_NAME="p10071.cpp">
-      <option name="sourceFile" value="p10071- Back to High School Physics.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.LoveCalculator.cpp" />
+        <item itemvalue="C/C++ File.LoveCalculator.h" />
         <item itemvalue="C/C++ File.11727 - Cost Cutting.cpp" />
         <item itemvalue="C/C++ File.Vasya And String.cpp" />
         <item itemvalue="C/C++ File.113 - Power of Cryptography.cpp" />
-        <item itemvalue="C/C++ File.11172 - Relational Operator.cpp" />
-        <item itemvalue="C/C++ File.p10071.cpp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +117,8 @@
       <workItem from="1696684200091" duration="1406000" />
       <workItem from="1697893844711" duration="598000" />
       <workItem from="1698501167254" duration="1019000" />
-      <workItem from="1700920821464" duration="2347000" />
+      <workItem from="1700920821464" duration="2933000" />
+      <workItem from="1700936585770" duration="742000" />
     </task>
     <servers />
   </component>
