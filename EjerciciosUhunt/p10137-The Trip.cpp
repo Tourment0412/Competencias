@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
+#include <iomanip> // Para setprecision
 
 using namespace std;
 
@@ -27,11 +28,30 @@ double encontrarCantidadMinima(const vector<double>& gastos) {
 }
 
 int main() {
-    vector<double> gastos = {10.00,20.00,30.00};
+    int numEstudiantes;
+    vector<double> resultados;
 
-    double cantidadMinima = encontrarCantidadMinima(gastos);
+    while (true) {
+        // Leer el número de estudiantes
+        cin >> numEstudiantes;
+        if (numEstudiantes == 0) {
+            // Mostrar todos los resultados almacenados
+            for (double resultado : resultados) {
+                cout << fixed << setprecision(2) << "$" << resultado << '\n';
+            }
+            break; // Terminar el programa si el número de estudiantes es 0
+        }
 
-    cout << "La cantidad mínima para igualar los gastos con margen de un centavo es: $" << cantidadMinima << endl;
+        // Leer los gastos de los estudiantes
+        vector<double> gastos(numEstudiantes);
+        for (int i = 0; i < numEstudiantes; ++i) {
+            cin >> gastos[i];
+        }
+
+        // Calcular y almacenar el resultado para este conjunto de gastos
+        double resultado = encontrarCantidadMinima(gastos);
+        resultados.push_back(resultado);
+    }
 
     return 0;
 }

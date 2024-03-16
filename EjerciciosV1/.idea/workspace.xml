@@ -10,10 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="369a5260-ba47-44f7-af35-83e659220d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/p10137-The Trip.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosUhunt/p10137-The Trip.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosUhunt/p10137-The Trip.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p10189-Minesweeper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/p10189-Minesweeper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p10137-The Trip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/p10137-The Trip.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
