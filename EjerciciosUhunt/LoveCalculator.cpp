@@ -8,7 +8,7 @@ bool compareStrings(std::string a, std::string b) {
 
 std::string formarNumeroMasGrande(std::vector<std::string>& subcadenas) {
     // Ordenar las subcadenas de manera personalizada
-    std::sort(subcadenas.begin(), subcadenas.end(), compareStrings);
+    std::sort(subcadenas .begin(), subcadenas.end(), compareStrings);
 
     // Concatenar las subcadenas ordenadas para formar el número más grande
     std::string resultado;

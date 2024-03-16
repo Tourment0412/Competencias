@@ -10,7 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="369a5260-ba47-44f7-af35-83e659220d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/LoveCalculator.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/Ejercicios/p10783.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/Nucleotide.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/PeaPattern.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/p10189-Minesweeper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/p10783 - Odd Sum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosUhunt/LoveCalculator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosUhunt/LoveCalculator.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +54,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -58,44 +64,44 @@
       <recent name="C:\Users\NITRO 5\Documents\GitHub\Competencias\EjerciciosV1\Ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.LoveCalculator.cpp">
-    <configuration name="113 - Power of Cryptography.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="113 - Power of Cryptography.cpp" CONFIG_NAME="113 - Power of Cryptography.cpp">
-      <option name="sourceFile" value="113 - Power of Cryptography.cpp" />
+  <component name="RunManager" selected="C/C++ File.p10189-Minesweeper.cpp">
+    <configuration name="Nucleotide.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="Nucleotide.cpp" CONFIG_NAME="Nucleotide.cpp">
+      <option name="sourceFile" value="Nucleotide.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="11727 - Cost Cutting.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="11727 - Cost Cutting.cpp" CONFIG_NAME="11727 - Cost Cutting.cpp">
-      <option name="sourceFile" value="11727 - Cost Cutting.cpp" />
+    <configuration name="PeaPattern.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="PeaPattern.cpp" CONFIG_NAME="PeaPattern.cpp">
+      <option name="sourceFile" value="PeaPattern.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoveCalculator.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="LoveCalculator.cpp" CONFIG_NAME="LoveCalculator.cpp">
-      <option name="sourceFile" value="LoveCalculator.cpp" />
+    <configuration name="p100- The 3n + 1 problem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="p100- The 3n + 1 problem.cpp" CONFIG_NAME="p100- The 3n + 1 problem.cpp">
+      <option name="sourceFile" value="p100- The 3n + 1 problem.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoveCalculator.h" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="LoveCalculator.h" CONFIG_NAME="LoveCalculator.h">
-      <option name="sourceFile" value="LoveCalculator.h" />
+    <configuration name="p10189-Minesweeper.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="p10189-Minesweeper.cpp" CONFIG_NAME="p10189-Minesweeper.cpp">
+      <option name="sourceFile" value="p10189-Minesweeper.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vasya And String.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="Vasya And String.cpp" CONFIG_NAME="Vasya And String.cpp">
-      <option name="sourceFile" value="Vasya And String.cpp" />
+    <configuration name="p10783 - Odd Sum.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="p10783 - Odd Sum.cpp" CONFIG_NAME="p10783 - Odd Sum.cpp">
+      <option name="sourceFile" value="p10783 - Odd Sum.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.LoveCalculator.cpp" />
-        <item itemvalue="C/C++ File.LoveCalculator.h" />
-        <item itemvalue="C/C++ File.11727 - Cost Cutting.cpp" />
-        <item itemvalue="C/C++ File.Vasya And String.cpp" />
-        <item itemvalue="C/C++ File.113 - Power of Cryptography.cpp" />
+        <item itemvalue="C/C++ File.p10189-Minesweeper.cpp" />
+        <item itemvalue="C/C++ File.p10783 - Odd Sum.cpp" />
+        <item itemvalue="C/C++ File.PeaPattern.cpp" />
+        <item itemvalue="C/C++ File.Nucleotide.cpp" />
+        <item itemvalue="C/C++ File.p100- The 3n + 1 problem.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +125,9 @@
       <workItem from="1698501167254" duration="1019000" />
       <workItem from="1700920821464" duration="2933000" />
       <workItem from="1700936585770" duration="742000" />
+      <workItem from="1708194287652" duration="3871000" />
+      <workItem from="1709392320897" duration="2716000" />
+      <workItem from="1710548958915" duration="7104000" />
     </task>
     <servers />
   </component>
