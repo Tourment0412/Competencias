@@ -10,13 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="369a5260-ba47-44f7-af35-83e659220d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/Ejercicios/p10783.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/Nucleotide.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/PeaPattern.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/p10189-Minesweeper.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/p10783 - Odd Sum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosUhunt/LoveCalculator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosUhunt/LoveCalculator.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosUhunt/p10137-The Trip.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p10189-Minesweeper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/p10189-Minesweeper.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
       <recent name="C:\Users\NITRO 5\Documents\GitHub\Competencias\EjerciciosV1\Ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.p10189-Minesweeper.cpp">
+  <component name="RunManager" selected="C/C++ File.p10137-The Trip.cpp">
     <configuration name="Nucleotide.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="Nucleotide.cpp" CONFIG_NAME="Nucleotide.cpp">
       <option name="sourceFile" value="Nucleotide.cpp" />
       <method v="2">
@@ -77,8 +74,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p100- The 3n + 1 problem.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="p100- The 3n + 1 problem.cpp" CONFIG_NAME="p100- The 3n + 1 problem.cpp">
-      <option name="sourceFile" value="p100- The 3n + 1 problem.cpp" />
+    <configuration name="p10137-The Trip.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EjerciciosV1" TARGET_NAME="p10137-The Trip.cpp" CONFIG_NAME="p10137-The Trip.cpp">
+      <option name="sourceFile" value="p10137-The Trip.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -97,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.p10137-The Trip.cpp" />
         <item itemvalue="C/C++ File.p10189-Minesweeper.cpp" />
         <item itemvalue="C/C++ File.p10783 - Odd Sum.cpp" />
         <item itemvalue="C/C++ File.PeaPattern.cpp" />
         <item itemvalue="C/C++ File.Nucleotide.cpp" />
-        <item itemvalue="C/C++ File.p100- The 3n + 1 problem.cpp" />
       </list>
     </recent_temporary>
   </component>
